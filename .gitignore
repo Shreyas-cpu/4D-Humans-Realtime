@@ -146,3 +146,10 @@ dmypy.json
 .pyre/
 /checkpoints/
 /data/
+pkgs/
+hf_download/
+*.pkl
+output_*.mp4
+test_*.mp4
+example_data/videos/gymnasts_demo.mp4
+
