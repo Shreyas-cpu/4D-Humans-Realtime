@@ -4,9 +4,14 @@
 [![Python 3.10](https://img.shields.io/badge/Python-3.10-blue.svg)](https://www.python.org/downloads/release/python-3100/)
 [![PyTorch 2.5](https://img.shields.io/badge/PyTorch-2.5%20CUDA-ee4c2c.svg)](https://pytorch.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE.md)
-[![Original Paper: arXiv](https://img.shields.io/badge/arXiv-2305.20091-00ff00.svg)](https://arxiv.org/pdf/2305.20091.pdf)
+[![arXiv](https://img.shields.io/badge/arXiv-2305.20091-00ff00.svg)](https://arxiv.org/pdf/2305.20091.pdf)
+[![Website shields.io](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https://shubham-goel.github.io/4dhumans/)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Ex4gE5v1bPR3evfhtG7sDHxQGsWwNwby?usp=sharing)
+[![Hugging Face Spaces](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-blue)](https://huggingface.co/spaces/brjathu/HMR2.0)
 
 > **4D-Humans Realtime** is an optimized, low-latency version of **4D-Humans (HMR 2.0)** engineered for live camera feeds, video processing, and interactive 3D human pose and shape estimation.
+
+![teaser](assets/teaser.png)
 
 ---
 
